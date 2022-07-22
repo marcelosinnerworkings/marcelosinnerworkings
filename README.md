@@ -45,6 +45,34 @@
 </table>
 <br>
 
+## :speaking_head: Languages
+
+<p>I can share my thoughts and exchange ideas in the following languages:</p>
+
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>Portuguese</td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>C1-C2</td>
+  </tr>
+  <tr>
+    <td>French</td>
+    <td>C2</td>
+  </tr>
+  <tr>
+    <td>Spanish</td>
+    <td>B2</td>
+  </tr>
+</table>
+<br>
+
 ## :incoming_envelope: Contact me
 
 <ul>
