@@ -52,7 +52,7 @@
 <table>
   <tr>
     <th>Language</th>
-    <th>Level</th>
+    <th>CEFR Level</th>
   </tr>
   <tr>
     <td>Portuguese</td>
@@ -76,7 +76,7 @@
 ## :incoming_envelope: Contact me
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/marcelo-delima/" target="_blank">LinkedIn profile</a></li>
+  <li><a href="https://www.linkedin.com/in/marcelo-delima/">LinkedIn profile</a></li>
 </ul>
 <br>
 
