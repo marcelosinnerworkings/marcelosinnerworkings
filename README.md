@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 ## :wave: Welcome to Marcelo's inner workings!
 
 <p>I am Marcelo de Lima, a Brazilian software engineer, and IT analyst. Do drop me a note through LinkedIn. It will be a pleasure to chat with you!</p>
