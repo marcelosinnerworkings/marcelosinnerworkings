@@ -1,6 +1,6 @@
 ## :wave: Welcome to Marcelo's inner workings!
 
-<p>I am Marcelo de Lima, a Brazilian software engineer, and IT analyst.</p>
+<p>I am Marcelo de Lima, a Brazilian IT professional.</p>
 <p>Do drop me a note through LinkedIn. It will be a pleasure to chat with you!</p>
 <br>
 
