@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>English</td>
-    <td>C1-C2</td>
+    <td>C2</td>
   </tr>
   <tr>
     <td>French</td>
@@ -88,6 +88,10 @@
   <tr>
     <td>Spanish</td>
     <td>B2</td>
+  </tr>
+  <tr>
+    <td>Mandarin - Chinese</td>
+    <td>A1</td>
   </tr>
 </table>
 <br>
