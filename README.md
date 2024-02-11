@@ -102,7 +102,3 @@
   <li><a href="https://www.linkedin.com/in/marcelo-delima/">LinkedIn profile</a></li>
 </ul>
 <br>
-
-## :bar_chart: Basic stats
-
-[![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosinnerworkings)](https://github.com/marcelosinnerworkings/github-readme-stats)
