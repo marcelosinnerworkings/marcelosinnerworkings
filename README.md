@@ -1,6 +1,6 @@
 ## :wave: Welcome to Marcelo's inner workings!
 
-<p>I am Marcelo de Lima, a data engineer who loves a bit of DevOps and cloud infrastructure, as well.</p>
+<p>I am Marcelo de Lima, a DevOps professional who loves a bit of data and cloud infrastructure, as well.</p>
 <p>Feel free to drop me a note through LinkedIn. It will be a pleasure to chat with you!</p>
 <p>This is my private profile, which specializes in DevOps and data. If you are looking for additional professional projects I am working on, please visit the profile of the Ministry of Management and Innovation in Public Services - Brazil (https://github.com/gestaogovbr).</p>
 <br>
