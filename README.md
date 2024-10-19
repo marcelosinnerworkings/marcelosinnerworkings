@@ -7,53 +7,19 @@
 
 ## :gear: Technologies
 
-<p>I'm currently working with the following technologies:</p>
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="50px" height="50px" /></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50px" height="50px" /></td>
-    <td>SQL</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px" /></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="50px" height="50px" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/31670619?s=200&v=4" width="50px" height="50px" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50px" height="50px" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg" width="50px" height="50px" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50px" height="50px" /></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" height="50px" /></td>
-  </tr>
-</table>
+<p>I'm currently working with the following technologies and tools:</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,ubuntu,bash,powershell&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=light" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+
 <br>
 
 <p>I'm also familiar with:</p>
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" height="50px" /></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,java,php,js,ts&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+
 <br>
 
 ## :speaking_head: Languages
