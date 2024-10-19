@@ -8,17 +8,17 @@
 ## :gear: Technologies
 
 <p>I'm currently working with the following technologies and tools:</p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab&theme=light" />
-<img src="https://skillicons.dev/icons?i=python,ubuntu,bash,powershell&theme=light" />
-<img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=light" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" />
-<img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab&theme=light" alt="AWS, Docker, Kubernetes, Git, GitHub, and GitLab" />
+<img src="https://skillicons.dev/icons?i=python,ubuntu,bash,powershell&theme=light" alt="Python, Ubuntu, Bash, and PowerShell" />
+<img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=light" alt="Linux, Windows, and Apple" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" alt="PostgreSQL and MySQL" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VSCode" />
 
 <br>
 
 <p>I'm also familiar with:</p>
-<img src="https://skillicons.dev/icons?i=c,java,php,js,ts&theme=light" />
-<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,java,php,js,ts&theme=light" alt="C, Java, PHP, JavaScript, and TypeScript" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=light" alt="HTML5 and CSS3" />
 
 <br>
 
